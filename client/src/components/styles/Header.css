@@ -1,0 +1,17 @@
+.header {
+  background-color: #073b4c;
+  color: #eee;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.nav-link {
+  color: #eee;
+  text-decoration: none;
+  margin-right: 0.5rem;
+}
+
+.active {
+  color: #83c5be;
+  font-weight: bold;
+}

@@ -1,0 +1,27 @@
+div.container1 {
+  border: 1px solid black;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+  width: 1000px;
+  margin: 0 auto;
+}
+button {
+  margin: 10px;
+  background-color: lightcoral;
+  box-shadow: 2px 3px black;
+  color: white;
+  padding: 8px 20px;
+  width: 150px;
+  font-weight: bold;
+}
+.nav-link-pink {
+  color: #073b4c;
+  text-align: left;
+  width: 1000px;
+  margin: 20px auto;
+}
+.article-title,
+.article-content {
+  text-align: left;
+}

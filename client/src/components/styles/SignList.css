@@ -1,0 +1,14 @@
+img {
+  width: 150px;
+  height: 150px;
+}
+/* div.container {
+  width: 960px;
+} */
+
+div.card {
+  display: inline-block;
+  padding: 5px;
+  width: 310px;
+  box-shadow: 0px 5px 15px rgba(140, 140, 140, 0.5);
+}

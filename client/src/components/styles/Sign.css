@@ -1,0 +1,13 @@
+div.content {
+  display: inline-flex;
+  align-items: center;
+}
+div.image img {
+  width: 400px;
+  height: 400px;
+}
+div.description {
+  width: 400px;
+  text-align: left;
+  margin-left: 30px;
+}
